@@ -1,0 +1,15 @@
+C:\Users\User\source\repos\ConsoleApp1\taskchanged3\taskchanged3\obj\Debug\net6.0\taskchanged3.csproj.AssemblyReference.cache
+C:\Users\User\source\repos\ConsoleApp1\taskchanged3\taskchanged3\obj\Debug\net6.0\taskchanged3.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\User\source\repos\ConsoleApp1\taskchanged3\taskchanged3\obj\Debug\net6.0\taskchanged3.AssemblyInfoInputs.cache
+C:\Users\User\source\repos\ConsoleApp1\taskchanged3\taskchanged3\obj\Debug\net6.0\taskchanged3.AssemblyInfo.cs
+C:\Users\User\source\repos\ConsoleApp1\taskchanged3\taskchanged3\obj\Debug\net6.0\taskchanged3.csproj.CoreCompileInputs.cache
+C:\Users\User\source\repos\ConsoleApp1\taskchanged3\taskchanged3\bin\Debug\net6.0\taskchanged3.exe
+C:\Users\User\source\repos\ConsoleApp1\taskchanged3\taskchanged3\bin\Debug\net6.0\taskchanged3.deps.json
+C:\Users\User\source\repos\ConsoleApp1\taskchanged3\taskchanged3\bin\Debug\net6.0\taskchanged3.runtimeconfig.json
+C:\Users\User\source\repos\ConsoleApp1\taskchanged3\taskchanged3\bin\Debug\net6.0\taskchanged3.dll
+C:\Users\User\source\repos\ConsoleApp1\taskchanged3\taskchanged3\bin\Debug\net6.0\taskchanged3.pdb
+C:\Users\User\source\repos\ConsoleApp1\taskchanged3\taskchanged3\obj\Debug\net6.0\taskchanged3.dll
+C:\Users\User\source\repos\ConsoleApp1\taskchanged3\taskchanged3\obj\Debug\net6.0\refint\taskchanged3.dll
+C:\Users\User\source\repos\ConsoleApp1\taskchanged3\taskchanged3\obj\Debug\net6.0\taskchanged3.pdb
+C:\Users\User\source\repos\ConsoleApp1\taskchanged3\taskchanged3\obj\Debug\net6.0\taskchanged3.genruntimeconfig.cache
+C:\Users\User\source\repos\ConsoleApp1\taskchanged3\taskchanged3\obj\Debug\net6.0\ref\taskchanged3.dll
